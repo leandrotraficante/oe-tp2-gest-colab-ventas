@@ -1,0 +1,201 @@
+date,customer_id,product,quantity,unit_price,category
+2025-01-01,91201258,Cranberry Juice,1605,8.94,Food
+2025-01-01,72414006,Vegetable Stir-Fry Kit,9166,25.9,Food
+2025-01-02,284272625,Sweet Potato & Kale Hash,7771,179.06,Food
+2025-01-03,81207097,Soft Plush Throw Blanket,2104,178.8,Home
+2025-01-07,221972111,Frozen Edamame,4085,73.95,Food
+2025-01-07,111914302,Honey Roasted Almonds,4342,183.92,Food
+2025-01-10,64204075,Honey Wheat Pretzels,8234,181.86,Food
+2025-01-10,121142779,Dried Cranberries,3227,123.52,Food
+2025-01-13,31317021,Dried Mango Slices,7928,188.27,Food
+2025-01-16,22300160,Shower Curtain Hooks,2924,194.47,Home
+2025-01-19,72404948,Wireless Induction Charger,9546,198.06,Electronics
+2025-01-21,111015748,Almond Butter Crunch Bar,6326,89.16,Food
+2025-01-28,53200983,Fitness Foam Roller,4455,139.57,Sports
+2025-02-02,114994109,Air Purifier,1808,72.67,Home
+2025-02-04,101113676,Zesty Garlic Hummus,3581,50.88,Food
+2025-02-09,11900652,Pleated Midi Dress,4313,60.03,Clothing
+2025-02-09,62205610,Pear and Gorgonzola Salad,8611,183.57,Food
+2025-02-11,221270101,Pumpkin Pie Spice,9377,56.27,Food
+2025-02-15,61191848,Energy Protein Bars,8188,153.93,Food
+2025-02-16,231375290,Fruit and Nut Bars,4603,5.37,Food
+2025-02-16,111323016,Waffle Maker,2527,129.17,Home
+2025-02-17,121143118,Wireless Charging Station,4846,110.64,Electronics
+2025-02-17,21109935,Adjustable Resistance Bands,1558,179.24,Sports
+2025-02-18,67008582,Decorative Wall Tapestry,3698,66.14,Home
+2025-02-22,31314749,Granola Cereal,4883,2.68,Food
+2025-02-25,271973775,Honey Roasted Peanuts,2486,170.8,Food
+2025-02-26,64000101,Organic Coconut Flakes,7494,131.18,Food
+2025-02-28,84104621,Basmati Rice,5503,100.34,Food
+2025-03-01,122000496,Cherry Almond Protein Bar,2666,158.96,Food
+2025-03-02,61119817,Body Pillow Case,3510,44.93,Home
+2025-03-02,63000047,Snack Container Set,5964,102.28,Home
+2025-03-04,282970437,Granola Bars,2993,14.26,Food
+2025-03-07,101003773,Eco-Friendly Disposable Plates,3914,34.16,Home
+2025-03-09,61211171,Gingerbread House Kit,2604,44.04,Food
+2025-03-10,91409487,Peanut Butter,9986,21.14,Food
+2025-03-10,75909660,Eco-Friendly Stainless Steel Straws,6137,64.56,Home
+2025-03-12,67015258,Compact Portable Grill,740,68.48,Outdoor
+2025-03-13,71912813,Jennifer's Amazing Lip Balm Kit,2161,168.22,Beauty
+2025-03-18,104102574,Self-Cleaning Water Bottle,6260,39.24,Sports
+2025-03-22,53111988,Mediterranean Chickpea Salad,3009,76.74,Food
+2025-03-23,61107010,Whole Roasted Chicken,2020,163.06,Food
+2025-03-26,66004367,Wall Art Stickers,6997,156.16,Home
+2025-03-26,271971829,Photo Album,3690,45.51,Home
+2025-03-27,63100620,Wall-Mounted Wine Rack,5448,51.77,Home
+2025-04-02,61204612,Car Seat Organizer,9459,143.37,Automotive
+2025-04-02,211970194,Stuffed Grape Leaves,5691,38.61,Food
+2025-04-04,65401000,Raisin Cinnamon Granola,5879,197.05,Food
+2025-04-06,122038251,Roasted Chickpeas,8941,189.74,Food
+2025-04-07,75911616,Multi-Tool,3884,95.76,Outdoor
+2025-04-09,123307583,Pet Grooming Kit,8697,82.3,Pets
+2025-04-10,82906258,Electric Food Slicer,9108,177.86,Home
+2025-04-13,11001742,Casual Long Cardigan,795,47.68,Clothing
+2025-04-15,101001283,Adjustable Yoga Mat Strap,1743,17.88,Sports
+2025-04-16,72409794,Suction Cup Hooks,1130,184.37,Home
+2025-04-22,55002341,Blue Corn Tortilla Chips,1872,46.66,Food
+2025-04-23,65303085,Vegetable Sushi Rolls,5428,77.92,Food
+2025-04-23,114000721,Electric Meat Grinder,3776,25.95,Home
+2025-04-27,101106214,LED Under Cabinet Lighting,4574,124.52,Home
+2025-04-28,71922340,Almond Butter Crunch Bar,4515,143.09,Food
+2025-04-30,73921433,Ground Cinnamon,7511,99.99,Food
+2025-05-05,11101752,Laundry Detergent,7272,138.11,Home
+2025-05-07,71102322,Workstation Laptop Stand,1108,184.96,Office
+2025-05-08,81904808,Classic Baseball Cap,1855,21.69,Clothing
+2025-05-14,71905095,Camera Tripod,5065,25.96,Electronics
+2025-05-24,111307252,Kitchen Scale,8037,99.45,Home
+2025-05-30,56007387,Organic Quinoa Chips,342,32.99,Food
+2025-06-04,101106913,Spicy BBQ Sauce,9279,10.83,Food
+2025-06-04,62101484,Electric Razor,2129,180.57,Beauty
+2025-06-09,121137522,Organic Baby Spinach,98,147.54,Food
+2025-06-09,11600033,Kids' Science Experiment Kit,871,150.11,Toys
+2025-06-11,61119477,Cookbook,6063,116.34,Books
+2025-06-11,52100547,Over-The-Door Shoe Organizer,3243,158.04,Home
+2025-06-14,21410637,Winter Knit Beanie,9936,41.62,Clothing
+2025-06-14,122244744,Vanilla Ice Cream,4778,18.95,Food
+2025-06-15,253272070,Herb Garlic Butter,1134,113.98,Food
+2025-06-15,31304173,Rice Pudding,8939,31.02,Food
+2025-06-18,84204628,Wrap Jumpsuit,6081,138.63,Clothing
+2025-06-18,211370257,Corn Tortillas,9704,160.0,Food
+2025-06-20,103112329,Snack Container Set,4320,11.27,Home
+2025-06-21,66007681,Fitness Resistance Bands Set,8999,20.83,Sports
+2025-06-24,104913048,Tactical Backpack,3565,122.47,Outdoor
+2025-06-27,73908359,Smartphone Projector,9325,50.7,Electronics
+2025-06-27,75902065,Honey Ginger Tea,4809,22.53,Food
+2025-06-28,267091263,Satin Slip Dress,8216,134.58,Clothing
+2025-06-30,101001089,Rice Pudding,3021,168.15,Food
+2025-07-03,111103197,Carrot Ginger Soup,2132,69.45,Food
+2025-07-07,241272024,Cranberry Almond Biscotti,4524,92.37,Food
+2025-07-14,62203735,Herb Seasoned Couscous,9719,199.84,Food
+2025-07-14,101103686,Herb Seasoned Couscous,195,53.61,Food
+2025-07-16,122101010,Decorative Throw Pillows,7643,49.34,Home
+2025-07-17,71922955,Bird Feeder,9764,34.28,Outdoor
+2025-07-18,51409223,Adjustable Resistance Bands,5738,148.38,Sports
+2025-07-18,62103259,Stainless Steel Grater,7399,128.22,Home
+2025-07-24,51502528,Wireless Earbuds Case,6369,130.84,Electronics
+2025-07-24,62101468,Knitted Infinity Scarf,8025,175.71,Clothing
+2025-07-26,73921718,Adjustable Resistance Bands,7680,93.78,Sports
+2025-07-28,71122661,Silicone Baking Mat Set,4431,168.74,Home
+2025-07-29,273970514,Flavored Instant Oatmeal,6248,45.9,Food
+2025-07-30,253177476,Reversible Comforter Set,1511,38.68,Home
+2025-07-30,11303110,Electric Ice Cream Maker,2539,101.72,Home
+2025-07-31,83906684,Portable Camping Shower,2317,159.6,Outdoor
+2025-08-04,211174343,Dog Training Collar,4076,125.76,Pets
+2025-08-05,71921833,Italian Pasta,6239,15.73,Food
+2025-08-08,82904726,Body Pillow Case,617,20.56,Home
+2025-08-09,221973563,Camping Lantern,1390,7.29,Outdoor
+2025-08-14,111321856,Herb Seasoned Rice,7074,147.48,Food
+2025-08-17,43306855,Sweet Corn,973,46.9,Food
+2025-08-21,63112605,Travel Jewelry Case,4486,174.0,Clothing
+2025-08-21,63114360,Portable Charcoal Grill,8635,156.16,Outdoor
+2025-08-24,82903044,Beef Stew Meat,9083,116.75,Food
+2025-08-24,101212153,Cordless Electric Screwdriver,5736,103.42,Tools
+2025-08-28,53112314,Peanut Butter Cookies,531,5.86,Food
+2025-08-29,53106799,Smoky BBQ Jackfruit,5196,77.78,Food
+2025-08-30,61192630,Thyme,2425,164.21,Food
+2025-08-30,123006729,Adjustable Garden Rake,5599,155.83,Outdoor
+2025-08-30,311972652,Wireless Security Camera,9020,166.25,Electronics
+2025-08-31,111318063,Pasta (Fusilli),5675,31.03,Food
+2025-09-01,322170692,Honeycrisp Apple Chips,5284,96.21,Food
+2025-09-05,111319347,Chicken Broth,7382,104.22,Food
+2025-09-06,84304573,LED Flashlight with Rechargeable Batteries,8643,101.79,Outdoor
+2025-09-07,122240489,Wireless Game Controller,2702,39.7,Electronics
+2025-09-07,252070817,Kids' Gardening Kit,4851,153.65,Toys
+2025-09-08,62204158,Pear and Gorgonzola Salad,5511,29.46,Food
+2025-09-10,52000634,Field Journal,7527,48.65,Books
+2025-09-11,111024386,Fruit & Nut Trail Mix,1745,68.51,Food
+2025-09-15,271070788,Blueberry Oatmeal Cups,9505,103.76,Food
+2025-09-15,122238543,Organic Black Rice,5847,158.56,Food
+2025-09-15,67012099,Gardening Gloves,7417,43.95,Outdoor
+2025-09-20,11900652,Athletic Jogging Jacket,8629,154.97,Clothing
+2025-09-22,261190649,Wireless Mouse,4531,172.94,Electronics
+2025-09-22,116312873,Ramen Noodle Soup Cups,5293,9.08,Food
+2025-09-24,53100850,Digital Photo Frame,6318,126.48,Electronics
+2025-09-25,322283835,Cream Cheese,8103,83.33,Food
+2025-09-26,103103642,Portable Laptop Table,3965,90.77,Office
+2025-09-28,31100490,Organic Almond Flour,8025,74.36,Food
+2025-09-30,121135087,Peanut Butter Banana Smoothie Mix,7459,71.38,Food
+2025-10-02,61219571,Leather Crossbody Bag,6307,193.71,Clothing
+2025-10-02,113103726,Vegetable Sushi Rolls,7154,170.84,Food
+2025-10-03,111904150,Honey Sesame Chicken,7634,97.47,Food
+2025-10-04,101014953,Protein Powder,3697,87.6,Sports
+2025-10-04,75903792,Hibiscus Tea Bags,3628,139.18,Food
+2025-10-06,71926320,Fire Roasted Salsa,174,76.84,Food
+2025-10-07,21308781,Frozen Chicken Nuggets,3623,130.92,Food
+2025-10-09,61209756,Electric Heat Press Machine,5627,10.62,Tools
+2025-10-11,53274113,Pumpkin Pie Spice,939,94.93,Food
+2025-10-13,125106708,Sliced Olives,8361,82.7,Food
+2025-10-13,61103548,Non-Toxic Concrete Sealer,9075,174.07,Home
+2025-10-17,61120178,Coffee Subscription Service,1421,17.73,Food
+2025-10-17,104900116,Kids' Art Easel,1844,125.86,Toys
+2025-10-18,81904808,Organic Cereal Bars,1661,133.7,Food
+2025-10-19,241272079,Honey Graham Crackers,118,15.86,Food
+2025-10-23,102004331,Baking Soda,2644,115.84,Food
+2025-10-23,61119639,Asian Noodle Salad Kit,2483,15.1,Food
+2025-10-27,251573182,Terry Cloth Robe,5409,196.78,Clothing
+2025-10-29,43403282,Window Bird Feeder with Suction Cups,8933,176.65,Outdoor
+2025-10-30,222370440,Lemon Garlic Marinade,8428,169.44,Food
+2025-10-30,65303467,Cotton Quilted Throw Blanket,8907,79.59,Home
+2025-11-02,226071020,Stainless Steel Straws,2817,83.6,Home
+2025-11-03,31301846,Cranberry Pecan Granola,979,97.37,Food
+2025-11-04,81509449,Mechanical Pencil Set,1713,72.03,Office
+2025-11-08,74071926,Adjustable Laptop Desk,197,30.33,Office
+2025-11-09,231373069,Garlic Parmesan Roasted Nuts,2171,145.16,Food
+2025-11-10,31315007,Two-Tone Windbreaker,1375,113.07,Clothing
+2025-11-10,72000339,Pressure Washer Accessories Kit,7407,128.76,Home
+2025-11-10,111910005,Electric Kettle with Temperature Control,9134,46.65,Home
+2025-11-13,81504172,Diced Tomatoes (canned),2404,20.06,Food
+2025-11-15,111313479,Fruit Medley Juice,2364,35.51,Food
+2025-11-16,67003985,Apple Sauce,4901,183.42,Food
+2025-11-16,43318814,Chipotle Seasoning Blend,9167,124.37,Food
+2025-11-16,82902472,Shatterproof Wine Glasses,2744,197.06,Home
+2025-11-17,82908874,Pet Grooming Scissors,1849,15.8,Pets
+2025-11-20,72414006,Yoga Wheel,5581,126.38,Sports
+2025-11-23,71123518,Sunglasses,2874,142.99,Clothing
+2025-11-23,122287183,Frozen Berry Medley,4178,18.79,Food
+2025-11-23,111912605,Garden Vegetable Chips,7485,8.56,Food
+2025-11-23,122105566,Scented Candles,4487,62.77,Home
+2025-11-26,91409762,Magnet Travel Fridge Magnets,5497,18.57,Home
+2025-11-26,107006143,Beef Stew Meat,6571,180.4,Food
+2025-11-26,43317679,Portable Pet Stroller,5705,166.42,Pets
+2025-11-27,44000642,Travel Jewelry Organizer,4418,198.22,Clothing
+2025-11-30,107002503,LED Christmas Lights,308,64.44,Home
+2025-12-03,53112343,Savory Trail Mix,4052,129.11,Food
+2025-12-03,125107642,Wireless Game Controller,4185,30.16,Electronics
+2025-12-03,41215773,Mini Indoor Herb Garden Kit,735,156.33,Outdoor
+2025-12-03,81000210,Outdoor Camping Hammock,5065,145.04,Outdoor
+2025-12-04,104913048,Legging Pants,5281,166.33,Clothing
+2025-12-04,107006981,Cooking Utensil Set,9092,170.37,Home
+2025-12-08,91409746,Honey Glazed Carrots,6132,46.33,Food
+2025-12-09,71002053,Cinnamon Roll Dough,1441,66.23,Food
+2025-12-11,82901813,Pumpkin Spice Cookies,8935,39.33,Food
+2025-12-11,111312551,Multicolored LED Strip Lights,4065,29.84,Home
+2025-12-11,65405381,Scented Candles,7829,182.51,Home
+2025-12-12,61300367,Dog Waste Bag Dispenser,7549,92.8,Pets
+2025-12-14,271071402,Graphic Print Leggings,7702,177.45,Clothing
+2025-12-20,114909903,Folding Table,6138,61.48,Outdoor
+2025-12-24,101001005,Maple Bacon Potato Chips,3141,130.87,Food
+2025-12-27,221371644,Garlic Herb Grilled Chicken,1797,113.75,Food
+2025-12-27,21202337,Colorful Post-It Notes Set,7358,27.75,Office
+2025-12-29,43301601,Digital Wireless Meat Thermometer,9700,156.25,Home
+2025-12-30,103110046,Fruit Medley Juice,6967,30.84,Food

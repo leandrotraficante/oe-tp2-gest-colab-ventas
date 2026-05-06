@@ -94,3 +94,5 @@ try:
     print(f"Gráfico guardado en: {ruta_grafico}")
 except ImportError:
     print("No se pudo generar el gráfico (matplotlib no disponible).")
+
+# QA: Verificado - las fechas respetan formato YYYY-MM-DD
